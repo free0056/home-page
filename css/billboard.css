@@ -2,7 +2,7 @@
 /* CSS Document */
 
 html {
-	background-image: url(../images/crazy_paving_4142298.jpg);
+	background-image: url(../images/background-1.jpg);
 	background-position: center center;
 }
 
@@ -29,7 +29,7 @@ header {
 	background-image: url(../images/shark2.png);
 	background-repeat:no-repeat;
 	background-position:center center;
-	background-size: 100%;
+	background-size: 75%;
 
 	padding: 40% 2%;
 	width: 80;
@@ -45,7 +45,7 @@ header {
 	background-image: url(../images/buckets.png);
 	background-repeat:no-repeat;
 	background-position:center center;
-	background-size: 100%;
+	background-size: 75%;
 }
 
 .wrapper {
@@ -119,10 +119,10 @@ nav .selected {
 	/* Background */
 	
 	
-	background-image: url(../images/shark.png);
+	background-image: url(../images/muppets.png);
 	background-repeat:no-repeat;
 	background-position:center center;
-	background-size: 100%;
+	background-size: 75%;
 	/* border 
 	
 	border-width:6px;
